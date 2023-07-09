@@ -1,4 +1,12 @@
+
+*{
+margin: 10px;
+}
 .one{
+    background-color: tomato;
+    padding: 7px;
+}
+.two{
     background-color: tomato;
     padding: 7px;
 }
